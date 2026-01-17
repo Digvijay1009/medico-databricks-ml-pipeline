@@ -63,6 +63,15 @@ Metrics became realistic after scaling data beyond toy examples.
 - Single baseline model (Logistic Regression)
 
 ---
+## 📸 Project Screenshots
+
+### MLflow Experiment Tracking
+![MLflow Experiments](screenshots/mlflow_experiments.png)
+
+### Model Explainability
+![Feature Importance](screenshots/feature_importance.png)
+
+
 
 ## 📸 Screenshots
 See `/screenshots` folder for:
