@@ -73,9 +73,3 @@ Metrics became realistic after scaling data beyond toy examples.
 
 
 
-## 📸 Screenshots
-See `/screenshots` folder for:
-- MLflow experiment comparison
-- Feature importance plot
-- Gold feature table preview
-
